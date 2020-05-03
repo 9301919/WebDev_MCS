@@ -1,0 +1,10 @@
+h1, h2 {
+	color: white;
+	background: black;
+}
+.text {
+	background: linear-gradient(red, blue);
+}
+.page {
+	background: linear-gradient(to top right, grey, black);
+}
