@@ -1,0 +1,69 @@
+
+@import url(reset.css);
+<link href="https://fonts.googleapis.com/css?family=Modak|Playfair+Display&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Galada&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+
+body {
+}
+.headerTop {
+	height: 100px;
+	background-color: grey;
+	line-height: 100px;
+}
+h1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Galada', cursive;
+}
+#landingH1 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	
+}
+
+.headerJpg {
+	height: 500px;
+	background-image: url(../img/logo.jpg);
+	background-attachment: fixed;
+	background-position: center;
+}
+main {
+	background-color: #fffaf0
+}
+.page {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	line-height: 30px;
+}
+
+.headerNav {
+	height: 200px;
+	background-color: grey;
+}
+
+.paragraph {
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Modak', cursive;
+
+}
+
+.footer {
+	text-align: center;
+	height: 200px;
+	background-color: grey;
+	line-height: 180px;
+
+
+}
+
+.headerNav {
+	line-height: 180px;
+	text-align: center;
+	font-size: 30px;
+}
+.link {
+	text-decoration: none;
+	font-family: 'Modak', cursive;
+
+}

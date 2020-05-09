@@ -1,0 +1,17 @@
+@font-face {
+	src: url(../font/19281.otf);
+	font-family: '19281';
+	font-weight: normal;
+}
+.heading h1 {
+	font-size: 50px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: '19281';
+}
+.paragraph {
+	font-family: '19281';
+	}
+.paragraphTwo p {
+	font-family: '19281';	
+}
