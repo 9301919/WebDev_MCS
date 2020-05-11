@@ -1,0 +1,70 @@
+@import url(reset.css);
+
+.page {
+
+}
+.logo {
+	width: auto;
+}
+.zagolovokLogo {
+	height: 600px;
+	font-size: 400px;
+	text-align: center;
+	line-height: 600px;
+	font-family: 'Amatic SC', cursive;
+	border-bottom: 1px solid grey;
+}
+.menu {
+	text-align: center;
+	border-bottom: 1px solid grey;
+}
+a {
+	color: black;
+	font-size: 40px;
+	line-height: 100px;
+	text-decoration: none;
+	font-family: 'Amatic SC', cursive;
+}
+a:hover {
+	color: #ffd700;
+}
+
+.loremImg {
+	width: 600px;
+	margin: 20px 20px;
+}
+
+.ParagraphPage {
+	text-align: center;
+	padding: 100px 500px;
+}
+
+.paragraphHeader {
+	font-size: 40px;
+	line-height: 80px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.paragraphOne {
+	font-size: 20px;
+	line-height: 40px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.paragraphTwo {
+	font-size: 20px;
+	line-height: 40px;
+	font-family: 'Amatic SC', cursive;
+}
+.footerMenu {
+	background: #cccccc;
+	text-align: center;
+}
+.copyright {
+	height: 80px;
+	background: #cccccc;
+	text-align: center;
+	line-height: 40px;
+	font-size: 10px;
+	font-family: 'Press Start 2P', cursive;
+}
