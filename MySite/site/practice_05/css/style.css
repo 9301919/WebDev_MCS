@@ -1,0 +1,117 @@
+
+@import url(reset.css);
+
+body {
+	background: lightgrey;
+}
+
+header {
+	background-color: #2f4f4f;
+	color: white;
+	padding: 10px;
+	width: 1440px;
+}
+
+.logo {
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	/*display: flex;
+	align-items: center; С ЭТИМ НЕ СОВСЕМ ПОНЯЛ!!!
+	*/
+}
+
+main {
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+}
+
+h1 {
+	position: absolute;
+	top: 33px;
+	left: 33px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+ul {
+	position: absolute;
+	top: 97px;
+	right: 33px;
+	bottom: 33px;
+	left: 33px;
+}
+
+li {
+	font-family: Times new roman;
+	font-size: 20px;
+	line-height: 23px;
+}
+
+.pageOne {
+	position: absolute;
+	border: 5px solid #ffd700;
+	box-sizing: border-box;
+	border-radius: 30px;
+	width: 400px;
+	height: 800px;
+	left: 70px;
+	top: 52px;
+}
+
+.pageTwo {
+	position: absolute;
+	border: 5px solid #ffd700;
+	box-sizing: border-box;
+	border-radius: 30px;
+	width: 400px;
+	height: 800px;
+	left: 520px;
+	top: 52px;
+}
+
+.pageThree {
+	position: absolute;
+	border: 5px solid #ffd700;
+	box-sizing: border-box;
+	border-radius: 30px;
+	width: 400px;
+	height: 800px;
+	left: 970px;
+	top: 52px;
+}
+
+footer {
+	position: relative;
+	width: 1440px;
+	background-color: #2f4f4f;
+	color: white;
+	padding: 10px;
+	bottom: 0;
+}
+
+#copy {
+	display: inline-block;
+}
+
+#back {
+	position: absolute;
+	display: inline-block;
+	right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
